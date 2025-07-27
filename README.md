@@ -230,7 +230,6 @@ Sin certificación(gratuitos y accesibles sin registro)
 
 - [The Odin Project - Backend Path](https://www.theodinproject.com/paths/full-stack-javascript)
 - [MDN Web Docs - APIs y servidores](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
-- [w3schools - Backend Technologies](https://www.w3schools.com/backend/default.asp)
 - [Node.js documentación oficial](https://nodejs.org/es/docs/)
 - [Full Stack Open (sección backend)](https://fullstackopen.com/en/)
 Con certificación(requiere cuenta o pago)
