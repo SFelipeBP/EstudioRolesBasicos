@@ -357,12 +357,7 @@ Estos recursos están orientados a aprender desarrollo de aplicaciones móviles 
 ---
 
 🔹 **Con certificación** *(requiere cuenta o pago)*
-
-- [Google x Udacity - Curso oficial de Android con Kotlin](https://developer.android.com/courses/pathways/android-basics-kotlin)
 - [Coursera - Android App Development (Meta)](https://www.coursera.org/specializations/meta-android-developer)
-- [Udemy - Curso completo de Android Studio con Kotlin](https://www.udemy.com/course/master-android-development-with-kotlin/)
-- [Platzi - Escuela de Android](https://platzi.com/android/)
-
 ---
 
  **Proyectos completos de ejemplo**
@@ -373,10 +368,9 @@ Estos recursos están orientados a aprender desarrollo de aplicaciones móviles 
 
 ---
 
- Recomendadas por (Google, Microsoft, AWS)
+ Recomendadas por (Google, AWS)
 
 - [Google Android Developer Training](https://developer.android.com/courses)
-- [Microsoft Learn - Mobile App Development](https://learn.microsoft.com/en-us/training/paths/build-apps-with-csharp/)
 - [AWS Amplify - Backend para apps móviles](https://docs.amplify.aws/start/getting-started/setup/q/integration/android/)
 ## 12) Pasos a Desarrollar
 
