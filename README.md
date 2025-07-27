@@ -186,7 +186,6 @@ Proyectos completos de ejemplo(para practicar y mejorar portafolio)
 Recomendadas por líderes (Microsoft, AWS, Google)
 - [Google Developers - Web Fundamentals](https://developers.google.com/web/fundamentals)
 - [Microsoft Learn - Web Development](https://learn.microsoft.com/en-us/training/paths/web-development-101/)
-- [AWS - Frontend Web & Mobile Guides](https://aws.amazon.com/frontend-web-mobile/)
 - [Web.dev (de Google)](https://web.dev/)
 ## 6) Desarrollador Backend
 El Desarrollador Backend es responsable de la lógica de negocio, la gestión de bases de datos, la seguridad y todas las operaciones que ocurren en el "lado del servidor". Aunque el usuario final no lo ve, su trabajo es esencial para que la aplicación funcione correctamente.
