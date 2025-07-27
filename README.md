@@ -227,26 +227,23 @@ Otros:
 ## 7) Links recomendados para capacitación Rol Backend
 A continuación, se presentan recursos útiles para aprender desarrollo backend, desde lo básico hasta nivel intermedio/avanzado.
 Sin certificación(gratuitos y accesibles sin registro)
+
 - [The Odin Project - Backend Path](https://www.theodinproject.com/paths/full-stack-javascript)
 - [MDN Web Docs - APIs y servidores](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
 - [w3schools - Backend Technologies](https://www.w3schools.com/backend/default.asp)
 - [Node.js documentación oficial](https://nodejs.org/es/docs/)
 - [Full Stack Open (sección backend)](https://fullstackopen.com/en/)
 Con certificación(requiere cuenta o pago)
+
 - [freeCodeCamp - APIs y Microservicios (certificado)](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
-- [Coursera - Backend con Node.js y Express (IBM)](https://www.coursera.org/learn/server-side-nodejs)
 - [Udemy - Node.js, MongoDB y Express desde cero](https://www.udemy.com/course/node-de-cero-a-experto/)
 - [Codecademy - Backend Engineer Path](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 Proyectos completos de ejemplo** *(repositorios y retos prácticos)
+
 - [GitHub - Backend Practice Projects](https://github.com/donnemartin/system-design-primer)
 - [Node.js Project Examples](https://github.com/topics/nodejs-project)
 - [REST API con Flask (proyecto básico)](https://github.com/san089/Udemy-django-rest)
-- [Build a RESTful API with Django](https://realpython.com/django-rest-framework-quick-start/)
-Recomendadas por líderes (Microsoft, AWS, Google)
-- [Google Cloud - Backend Dev Guides](https://cloud.google.com/learn/backend)
-- [Microsoft Learn - Crea APIs con .NET y Node](https://learn.microsoft.com/en-us/training/paths/build-web-api-aspnet-core/)
 - [AWS - Backend Architecture & Microservices](https://aws.amazon.com/microservices/)
-- [Google - Backend Foundations (Coursera)](https://www.coursera.org/learn/backend-development)
 ## 8) Rol QA (Quality Assurance)
 El rol de QA (Quality Assurance) se enfoca en asegurar que el software funcione correctamente, cumpla con los requisitos definidos y esté libre de errores críticos antes de su entrega al usuario final. Es clave para mantener la calidad y estabilidad del producto.
  Descripción del rol
