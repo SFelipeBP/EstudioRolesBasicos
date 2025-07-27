@@ -282,27 +282,10 @@ Sin certificación(gratuitos y accesibles sin registro)
 - [Software Testing Help - Tutoriales QA](https://www.softwaretestinghelp.com/)
 - [Guru99 - Testing Manual y Automatizado](https://www.guru99.com/software-testing.html)
 - [Testing Automation University](https://testautomationu.applitools.com/)
-- [Intro a QA Testing (YouTube - Midudev)](https://www.youtube.com/watch?v=zvK8YFYK9Tg)
 
  Con certificación(requiere cuenta o pago)
 - [Coursera - Software Testing and Automation](https://www.coursera.org/specializations/software-testing-automation)
-- [Udemy - QA Testing Manual desde Cero](https://www.udemy.com/course/curso-de-tester-de-software-qa/)
-- [freeCodeCamp QA/Testing Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQnGdxCUmSWzU30VvCjN1a) *(videos gratuitos, pero sin certificado)*
-- [Platzi - Curso de QA Testing](https://platzi.com/cursos/qa/)
-
-🔹 **Proyectos completos de ejemplo** *(repositorios y retos prácticos)*
-
-- [QA Challenge Accepted - Retos de prueba manual](https://github.com/frogging-software/qa-challenge-accepted)
-- [Automation Practice Site](http://automationpractice.com/index.php) *(sitio de prueba gratuito para testing manual y automatizado)*
-- [Selenium Demo Sites](https://www.selenium.dev/documentation/webdriver/getting_started/open_browser/#demo-sites)
-
 ---
-
-🔹 **Recomendadas por líderes (Microsoft, Google, AWS)**
-
-- [Microsoft Learn - Testing y Calidad](https://learn.microsoft.com/en-us/azure/devops/pipelines/test/?view=azure-devops)
-- [Google - Engineering Practices (Quality Guide)](https://abseil.io/resources/swe-book/html/ch14.html)
-- [AWS - Best Practices for QA Automation](https://aws.amazon.com/blogs/devops/automated-software-testing-on-aws/)
 ## 10) Desarrollador Android
 El Desarrollador Android crea aplicaciones móviles que funcionan en dispositivos con el sistema operativo Android. Se enfoca en interfaces móviles, conectividad, rendimiento y experiencia de usuario optimizada para móviles.
 Descripción del rol
@@ -350,7 +333,6 @@ Estos recursos están orientados a aprender desarrollo de aplicaciones móviles 
 🔹 **Sin certificación** *(gratuitos y accesibles sin registro)*
 
 - [developer.android.com - Documentación oficial de Android](https://developer.android.com/)
-- [Curso de Android con Kotlin - YouTube (Programación ATS)](https://www.youtube.com/playlist?list=PLZV0a2jwtv-1_lM2Gg4LgkDGPocGOB6hN)
 - [Jetpack Compose Pathway (Google)](https://developer.android.com/jetpack/compose/tutorial)
 - [freeCodeCamp - Curso completo de Android con Java (YouTube)](https://www.youtube.com/watch?v=fis26HvvDII)
 
